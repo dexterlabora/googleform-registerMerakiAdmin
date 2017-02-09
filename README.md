@@ -11,28 +11,31 @@ The first two questions should be as follows:
 (SAMPLE, create this yourself.)
 
 
-<img src="images/Meraki API Registration Form Screenshot.png" alt="Drawing" style="width: 100px;"/>
+<img src="images/Meraki API Registration Form Screenshot.png" alt="Form" width=400/>
 
 
 Link the form to a Google Script. 
-![alt tag](/images/GoogleScriptsMenu.png)
-![alt tag](/images/GoogleScriptsIDE.png)
+
+<img src="images/GoogleScriptsMenu.png" alt="Google Scripts Menu" width=400/>
+
+<img src="images/GoogleScriptsIDE.png" alt="Google Scripts IDE" width=400/>
 
 Add a Trigger to launch the script when the Form is submitted.
 
-![alt tag](/images/GoogleScriptsTriggersMenu.png)
+<img src="images/GoogleScriptsTriggersMenu.png" alt="Triggers Menu" width=400/>
 
 Test the API calls
 - Run menu
-![alt tag](/images/GoogleScriptsRunMenu.png)
+
+<img src="images/GoogleScriptsRunMenu.png" alt="Run Menu" width=400/>
 
 - select a function, such as **testGetMerakiOrgs. 
 
 View the results
 - View --> Logs menu
 
-![alt tag](/images/GoogleScriptsLogsMenu.png)
+<img src="images/GoogleScriptsLogsMenu.png" alt="Logs Menu" width=400/>
 
-![alt tag](/images/GoogleScriptsLogs.png)
+<img src="images/GoogleScriptsLogs.png" alt="Logs" width=400/>
 
 
