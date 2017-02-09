@@ -1,7 +1,7 @@
 # googleform-registerMerakiAdmin
 A Google Script to create a Meraki Dashboard admin account based on their Google Form entry.
 
-# Meraki API Resources
+### Meraki API Resources
 http://developers.meraki.com/
 
 # Instructions
