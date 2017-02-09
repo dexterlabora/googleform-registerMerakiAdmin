@@ -44,4 +44,13 @@ A Google Script to create a Meraki Dashboard admin account based on their Google
 
 <img src="images/GoogleScriptsLogs.png" alt="Logs" width=400/>
 
+##Launch the Google Form!
 
+<img src="images/GoogleScriptsForm.png" alt="Logs" width=400/>
+
+##Verify Meraki account is created
+- Meraki Dashboard --> Organization --> Administrators
+
+<img src="images/MerakiDashboardAdmins.png" alt="Logs" width=400/>
+
+## SUCCESS!
