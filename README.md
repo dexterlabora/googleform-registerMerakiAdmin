@@ -24,6 +24,7 @@ https://forms.google.com
 
 ## Paste the contents of this repository's `code.gs` file into the Google Scripts IDE.
 
+- [code.gs](code.gs)
 - update the **API_KEY**, **ORG_ID** and **SHARD** to match your settings.
 - save your changes
 
