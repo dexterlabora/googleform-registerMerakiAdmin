@@ -80,7 +80,7 @@ Complete the form with a valid email address.
 
 If everything worked, you should get an email from Meraki asking to complete the admin account verification.
 
-<img src="images/Meraki Account Verification email.png" alt="Logs Menu" width=600/>
+<img src="images/Meraki Account Verification Email.png" alt="Logs Menu" width=600/>
 
 
 ## Verify Meraki account is created
