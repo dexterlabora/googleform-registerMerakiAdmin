@@ -85,7 +85,7 @@ If everything worked, you should get an email from Meraki asking to complete the
 ## Verify Meraki account is created
 - Meraki Dashboard --> Organization --> Administrators
 
-<img src="images/Meraki Admin User screenshot.png" alt="Logs" width=600/>
+<img src="images/Meraki Admin User screenshot - demo.png" alt="Admin Users" width=600/>
 
 ## SUCCESS!
 
